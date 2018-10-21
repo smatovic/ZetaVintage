@@ -1,0 +1,13 @@
+ZetaVintage II
+
+  * TODO - rewrite ZetaVintage in 6502 assembler
+
+ZetaVintage
+
+  * C code, compiled with cc65
+  * Mailbox move generator
+  * about 10 nodes per second
+  * depth 3 from startposition reached in 3 minutes
+
+ -- Srdja Matovic <s.matovic@app26.de> 2011
+
